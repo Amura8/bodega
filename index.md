@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my site
+
+I'm a ML student following Andrew Ng's course and this is the place where I'll write about my progress. Wish me luck! 
 
 You can use the [editor on GitHub](https://github.com/Amura8/bodega/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
